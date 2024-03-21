@@ -1,0 +1,27 @@
+body {
+    background-color: pink;
+}
+#gradeForm {
+text-align: center;
+}
+
+button {
+background-color: pink;
+border: none;
+padding: 10px 20px;
+margin-top: 20px;
+font-size: 16px;
+border-radius: 5px;
+text-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+}
+
+button:hover {
+background-color: rgb(223, 15, 46);
+}
+
+#total {
+text-align: center;
+}
+#gradeForm{
+border-style: solid;
+}
